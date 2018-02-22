@@ -8,3 +8,5 @@ After the data collection, data is visualized via Matplotlib, and graphs are exp
 
 
 [test.md](/Cloudiness_vs_Latitude.png)
+
+/Cloudiness_vs_Latitude.png
