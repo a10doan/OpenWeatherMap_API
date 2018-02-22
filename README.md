@@ -7,6 +7,5 @@ This program utilizes the OWM api service to locate weather data for a city that
 After the data collection, data is visualized via Matplotlib, and graphs are exported as png.  Data analysis of the weather patterns were summarized.
 
 
-[test.md](/Cloudiness_vs_Latitude.png)
 
 ![](/Cloudiness_vs_Latitude.png)
