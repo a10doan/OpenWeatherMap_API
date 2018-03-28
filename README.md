@@ -8,7 +8,7 @@ After the data collection, data is visualized via Matplotlib, and graphs are exp
 
 
 
-![](/Cloudiness_vs_Latitude.png)
-![](/Humidity_vs_Latitude.png)
-![](/Temperature_vs_Latitude.png)
-![](/WindSpeed_vs_Latitude.png)
+![](images/Cloudiness_vs_Latitude.png)
+![](images/Humidity_vs_Latitude.png)
+![](images/Temperature_vs_Latitude.png)
+![](images/WindSpeed_vs_Latitude.png)
