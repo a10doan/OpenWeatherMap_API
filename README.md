@@ -1,4 +1,4 @@
-## Unit 6 | Assignment - What's the Weather Like?
+## Unit 6 | What's the Weather Like?
 
 Skills Tested: Python programming, API calls, Array/Dictionary data search, data analysis/visualization via Pandas and Matplotlib
 
